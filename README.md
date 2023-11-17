@@ -4,9 +4,7 @@ Welcome to the Web3 Resources repository! This is an open-source collection of t
 
 ## Tools
 
-### 1. Smart Contract Vulnerabilities Collection
-
-[Smart Contract Vulnerabilities Collection](https://github.com/kadenzipfel/smart-contract-vulnerabilities) - A curated list of smart contract vulnerabilities with detailed explanations.
+* 1. [Smart Contract Vulnerabilities Collection](https://github.com/kadenzipfel/smart-contract-vulnerabilities) - A curated list of smart contract vulnerabilities with detailed explanations.
 
 ### 2. Awesome Buggy ERC20 Tokens
 
