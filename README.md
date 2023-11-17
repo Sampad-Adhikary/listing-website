@@ -6,8 +6,6 @@ Welcome to the Web3 Resources repository! This is an open-source collection of t
 
 ### 1. MetaMask
 
-![MetaMask Logo](https://raw.githubusercontent.com/MetaMask/brand-resources/master/SVG/metamask-fox.svg)
-
 [MetaMask](https://metamask.io/) is a popular Ethereum wallet and gateway to decentralized applications. It allows users to manage their Ethereum-based assets and interact with the growing ecosystem of web3 applications.
 
 **Key Features:**
@@ -17,7 +15,6 @@ Welcome to the Web3 Resources repository! This is an open-source collection of t
 
 ### 2. Truffle Suite
 
-![Truffle Logo](https://trufflesuite.com/img/truffle-logo-dark.svg)
 
 [Truffle Suite](https://www.trufflesuite.com/) is a development framework for Ethereum that simplifies the process of building, testing, and deploying smart contracts.
 
@@ -28,7 +25,6 @@ Welcome to the Web3 Resources repository! This is an open-source collection of t
 
 ### 3. IPFS (InterPlanetary File System)
 
-![IPFS Logo](https://ipfs.io/ipfs/QmR8rxYRdG4pBpAwiRs7iKJkPQZ25A8v4SH2hePykunPJo)
 
 [IPFS](https://ipfs.io/) is a decentralized and peer-to-peer protocol for storing and sharing hypermedia in a distributed file system. It aims to make the web faster, safer, and more open.
 
