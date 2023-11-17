@@ -4,49 +4,45 @@ Welcome to the Web3 Resources repository! This is an open-source collection of t
 
 ## Tools
 
-### 4. Hardhat
+### 1. Smart Contract Vulnerabilities Collection
 
-[Hardhat](https://hardhat.org/) is a powerful and extensible development environment for Ethereum that facilitates smart contract development, testing, and deployment. It provides a set of tools and tasks to streamline the Ethereum development process, making it easier for developers to build robust decentralized applications (DApps) on the Ethereum blockchain.
+[Smart Contract Vulnerabilities Collection](https://github.com/kadenzipfel/smart-contract-vulnerabilities) - A curated list of smart contract vulnerabilities with detailed explanations.
 
-**Key Features:**
-- **Smart Contract Development:** Hardhat simplifies the process of writing, compiling, and deploying smart contracts on the Ethereum blockchain.
-- **Testing Environment:** It offers a built-in testing environment that enables developers to create and run tests for their smart contracts, ensuring code integrity and functionality.
-- **Scripting and Task Automation:** Hardhat supports custom scripts and tasks, allowing developers to automate common development tasks and workflows, enhancing efficiency.
-- **Ethereum Network Management:** Developers can easily switch between different Ethereum networks (e.g., mainnet, testnets) for testing and deployment purposes.
-- **Extensibility:** Hardhat is highly extensible, allowing developers to integrate additional plugins and tools to tailor the development environment to their specific needs.
-- **Built-in Console:** Hardhat provides a built-in console for interacting with deployed smart contracts, making it convenient for developers to test and debug their code.
-- **Integration with Web3 Libraries:** Seamless integration with Web3 libraries facilitates interaction with Ethereum nodes and smart contracts from within the development environment.
+### 2. Awesome Buggy ERC20 Tokens
 
-### 1. MetaMask
+[Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A collection of vulnerable ERC20 tokens for educational purposes.
 
-[MetaMask](https://metamask.io/) is a popular Ethereum wallet and gateway to decentralized applications. It allows users to manage their Ethereum-based assets and interact with the growing ecosystem of web3 applications.
+### 3. GOATCasino
 
-**Key Features:**
-- Browser extension for Chrome, Firefox, and other major browsers.
-- Securely store and manage Ethereum-based assets.
-- Seamlessly connect to decentralized applications (DApps).
+[GOATCasino](https://github.com/nccgroup/GOATCasino) - Vulnerable smart contract for testing and learning about Ethereum security.
 
-### 2. Truffle Suite
+### 4. Damn Vulnerable DeFi
 
+[Damn Vulnerable DeFi](https://github.com/OpenZeppelin/damn-vulnerable-defi) - A purposely vulnerable DeFi project to help developers understand and improve security in decentralized finance.
 
-[Truffle Suite](https://www.trufflesuite.com/) is a development framework for Ethereum that simplifies the process of building, testing, and deploying smart contracts.
+### 5. Solidity Vulnerabilities Honeypots
 
-**Key Features:**
-- Development environment with a built-in Ethereum simulator.
-- Automated contract testing with Mocha and Chai.
-- Simplified deployment and migration of smart contracts.
+[Solidity Vulnerabilities Honeypots](https://github.com/misterch0c/Solidlity-Vulnerable/tree/master/honeypots) - A collection of honeypots showcasing vulnerabilities in Solidity smart contracts.
 
-### 3. IPFS (InterPlanetary File System)
+### 6. Smart Contract Classification
 
+[Smart Contract Classification](https://github.com/smartdec/classification) - A tool for classifying smart contracts.
 
-[IPFS](https://ipfs.io/) is a decentralized and peer-to-peer protocol for storing and sharing hypermedia in a distributed file system. It aims to make the web faster, safer, and more open.
+### 7. More Awesome Buggy ERC20 Tokens
 
-**Key Features:**
-- Distributed file system with content-based addressing.
-- Redundant storage for increased reliability.
-- Peer-to-peer communication for efficient data retrieval.
+[More Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - Additional examples of buggy ERC20 tokens for educational purposes.
 
+### 8. DVESC - Damn Vulnerable Ethereum Smart Contracts
 
+[DVESC](https://github.com/mixbytes/DVESC) - A collection of intentionally vulnerable Ethereum smart contracts for security testing and educational purposes.
+
+### 9. KickBNB
+
+[KickBNB](https://github.com/nathan-149/KickBNB) - An interesting smart contract project with potential security considerations.
+
+### 10. Smart Contract Exploit
+
+[Smart Contract Exploit](https://github.com/aczire/smartcontract-exploit) - A repository focusing on smart contract exploits.
 
 ## Contribution Guidelines
 
