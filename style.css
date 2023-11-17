@@ -1,5 +1,5 @@
-body{
-    text-align: center;
+#readme-content{
     font-family: 'Courier New', Courier, monospace;
-    color: aliceblue;
+    width: 80%;
+    margin: 0 auto;
 }
