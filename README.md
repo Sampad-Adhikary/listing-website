@@ -4,6 +4,19 @@ Welcome to the Web3 Resources repository! This is an open-source collection of t
 
 ## Tools
 
+### 4. Hardhat
+
+[Hardhat](https://hardhat.org/) is a powerful and extensible development environment for Ethereum that facilitates smart contract development, testing, and deployment. It provides a set of tools and tasks to streamline the Ethereum development process, making it easier for developers to build robust decentralized applications (DApps) on the Ethereum blockchain.
+
+**Key Features:**
+- **Smart Contract Development:** Hardhat simplifies the process of writing, compiling, and deploying smart contracts on the Ethereum blockchain.
+- **Testing Environment:** It offers a built-in testing environment that enables developers to create and run tests for their smart contracts, ensuring code integrity and functionality.
+- **Scripting and Task Automation:** Hardhat supports custom scripts and tasks, allowing developers to automate common development tasks and workflows, enhancing efficiency.
+- **Ethereum Network Management:** Developers can easily switch between different Ethereum networks (e.g., mainnet, testnets) for testing and deployment purposes.
+- **Extensibility:** Hardhat is highly extensible, allowing developers to integrate additional plugins and tools to tailor the development environment to their specific needs.
+- **Built-in Console:** Hardhat provides a built-in console for interacting with deployed smart contracts, making it convenient for developers to test and debug their code.
+- **Integration with Web3 Libraries:** Seamless integration with Web3 libraries facilitates interaction with Ethereum nodes and smart contracts from within the development environment.
+
 ### 1. MetaMask
 
 [MetaMask](https://metamask.io/) is a popular Ethereum wallet and gateway to decentralized applications. It allows users to manage their Ethereum-based assets and interact with the growing ecosystem of web3 applications.
@@ -33,18 +46,6 @@ Welcome to the Web3 Resources repository! This is an open-source collection of t
 - Redundant storage for increased reliability.
 - Peer-to-peer communication for efficient data retrieval.
 
-### 4. Hardhat
-
-[Hardhat](https://hardhat.org/) is a powerful and extensible development environment for Ethereum that facilitates smart contract development, testing, and deployment. It provides a set of tools and tasks to streamline the Ethereum development process, making it easier for developers to build robust decentralized applications (DApps) on the Ethereum blockchain.
-
-**Key Features:**
-- **Smart Contract Development:** Hardhat simplifies the process of writing, compiling, and deploying smart contracts on the Ethereum blockchain.
-- **Testing Environment:** It offers a built-in testing environment that enables developers to create and run tests for their smart contracts, ensuring code integrity and functionality.
-- **Scripting and Task Automation:** Hardhat supports custom scripts and tasks, allowing developers to automate common development tasks and workflows, enhancing efficiency.
-- **Ethereum Network Management:** Developers can easily switch between different Ethereum networks (e.g., mainnet, testnets) for testing and deployment purposes.
-- **Extensibility:** Hardhat is highly extensible, allowing developers to integrate additional plugins and tools to tailor the development environment to their specific needs.
-- **Built-in Console:** Hardhat provides a built-in console for interacting with deployed smart contracts, making it convenient for developers to test and debug their code.
-- **Integration with Web3 Libraries:** Seamless integration with Web3 libraries facilitates interaction with Ethereum nodes and smart contracts from within the development environment.
 
 
 ## Contribution Guidelines
